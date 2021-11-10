@@ -1,0 +1,85 @@
+body {
+ background-color: rosybrown;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+h1 {
+    color: mediumvioletred;
+    font-family: cursive;
+    text-align: center;
+}
+p {
+    color: mediumvioletred;
+    font-family: fantasy;
+    text-align: center;
+}
+.success {
+    color: mediumvioletred;
+    text-align: center;
+}
+a[href] {
+    background-color: pink;
+    color: maroon;
+    font-family: fantasy;
+}
+ul {
+    background-color: lightpink;
+    border-style: groove;
+    color: palevioletred;
+}
+
+ol {
+    background-color: lightpink;
+    border-style: groove;
+    color:palevioletred;
+}
+li {
+    color: maroon;
+}
+
+section {
+    background-color: mistyrose;
+    color: palevioletred;
+    font-family: sans-serif;
+}
+
+h4 {
+    border-style: groove;
+    border-width: 2px;
+    color: mediumvioletred;
+    text-align: center;
+}
+th{
+    background-color: palevioletred;
+    color: peachpuff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+td {
+    color: maroon;
+    font-family: cursive;
+}
+h3 {
+    color: purple;
+    font-family: cursive;
+    font-size: medium ;
+}
+label {
+    color: maroon;
+    background-color: rgb(197, 184, 164);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium
+}
+
+strong {
+    color: purple;
+}
+h2 {
+    color: purple;
+  font-family: cursive;
+  text-align: center;
+}
